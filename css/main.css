@@ -1,0 +1,10 @@
+body.dark {
+    background-color: rgb(5, 5, 8);
+    color: white;
+}
+
+body.light {
+    background-color: white;
+    color: #000;
+
+}
