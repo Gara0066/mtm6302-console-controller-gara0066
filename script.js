@@ -26,11 +26,9 @@ function setFontColor(newColor) {
 
 //**FUNCTION #5 setTheme */
 
-const $body = document.getElementById('body')
+const $theme = document.getElementById('body')
 
 function setTheme() {
-   $body.classList.toggle('dark-theme');
-   $body.classList.toggle('light-theme')
-    
+   $theme.classList.toggle('dark');    
 }
 
